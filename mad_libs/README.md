@@ -1,3 +1,2 @@
-Mad Libs
-
+# Mad Libs
 Quick program to practice replace()
