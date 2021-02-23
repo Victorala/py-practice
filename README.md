@@ -1,2 +1,2 @@
-Py-practice
+# Py-practice
 Quick python exercises for practice purposes
